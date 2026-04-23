@@ -4,9 +4,51 @@
 </p>
 <br>
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="65%" />
+<img align="left" src="assets/profile_pic.jpg" width="60%" />
 <br><br><br><br><br><br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000000&color=B318F7&width=300&height=30&lines=When+I+found+you&center=true">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000000&color=B318F7&width=300&height=30&lines=My+little+heart+found+a+home&center=true">
+</p>
+<br><br><br><br><br><br>
+
+# Socials
+<p align="left">
+<a href="https://discord.com/users/763694230652452905" target="_blank"><img src="https://img.shields.io/badge/Discord-nuocmatparis-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="mailto:hungtranphu1510@gmail.com"><img src="https://img.shields.io/badge/Gmail-hungtranphu1510-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+# Tech Stack
+
+### Languages & Frameworks
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<!--
+# GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuocmatParis&theme=jolly&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=nuocmatParis&theme=jolly" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuocmatParis&theme=jolly&layout=compact" alt="Top Langs" />
+</p>
+-->
+
+<p>
+<img align="left" src="assets/bye.gif" width="65%" />
+
+<br><br><br><br><br><br><br><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&duration=1&pause=1000000&color=B318F7&width=200&height=50&lines=バイバイ&center=true">
+
 </p>
