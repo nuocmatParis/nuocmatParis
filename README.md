@@ -47,7 +47,7 @@
 <br>
 <p>
 <img align="left" src="assets/bye.gif" width="60%" />
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" width="30" />
 <img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&size=35&duration=1&color=B318F7&multiline=true&repeat=false&width=300&lines=%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4+" alt="Typing SVG" />
 </p>
