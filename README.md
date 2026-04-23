@@ -44,11 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuocmatParis&theme=jolly&layout=compact" alt="Top Langs" />
 </p>
 -->
-
+<br>
 <p>
-<img align="left" src="assets/bye.gif" width="65%" />
-
-<br><br><br><br><br><br><br><br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&duration=1&pause=1000000&color=B318F7&width=200&height=50&lines=バイバイ&center=true">
-
+<img align="left" src="assets/bye.gif" width="60%" />
+<br><br><br><br><br><br><br><br><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&size=30&duration=1&color=B318F7&multiline=true&repeat=false&width=300&lines=%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4+" alt="Typing SVG" />
 </p>
